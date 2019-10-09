@@ -4,9 +4,7 @@ device: {VersaView 5400}
 language: {C#}
 ---
 
-*We highly recommend keeping this document current, and Microsoft reserves a right to remove devices and documents from the Azure IoT Device Catalog if document contains broken URL links, incorrect information etc.*
-
-Run a simple {C#} sample on {VersaView 5400} device running {Windows 10 IoT Enterprise}.
+Run a simple C# sample on VersaView 5400 device running Windows 10 IoT Enterprise.
 ===
 ---
 
@@ -31,7 +29,7 @@ Run a simple {C#} sample on {VersaView 5400} device running {Windows 10 IoT Ente
 
 **About this document**
 
-This document describes how to connect {enter your device name here} device running {enter the OS name running on edge device} with Azure IoT Edge Runtime pre-installed and Device Management. This multi-step process includes:
+This document describes how to connect VersaView 5400 device running Windows 10 IoT Enterprise with Azure IoT Edge Runtime pre-installed and Device Management. This multi-step process includes:
 
 -   Configuring Azure IoT Hub
 -   Registering your IoT device
@@ -48,8 +46,7 @@ You should have the following items ready before beginning the process:
 -   [Sign up to IOT Hub](https://account.windowsazure.com/signup?offer=ms-azr-0044p)
 -   [Add the Edge Device](https://docs.microsoft.com/en-us/azure/iot-edge/quickstart)
 -   [Add the Edge Modules](https://docs.microsoft.com/en-us/azure/iot-edge/quickstart#deploy-a-module)
--   {enter your device name here} device.
--   {{Please specify if any other software(s) or hardware(s) are required.}}
+-   VersaView 5400 device.
 
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device

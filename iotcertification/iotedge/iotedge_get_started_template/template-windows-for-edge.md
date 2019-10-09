@@ -17,13 +17,6 @@ Run a simple C# sample on VersaView 5400 device running Windows 10 IoT Enterpris
 -   [Step 4: Next Steps](#NextSteps)
 -   [Step 5: Troubleshooting](#Step-5-Troubleshooting)
 
-# Instructions for using this template
-
--   Replace the text in {placeholders} with correct values.
--   Delete the lines {{enclosed}} after following the instructions enclosed between them.
--   It is advisable to use external links, wherever possible.
--   Remove this section from final document.
-
 <a name="Introduction"></a>
 # Introduction
 
@@ -51,7 +44,7 @@ You should have the following items ready before beginning the process:
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device
 
--   {{Write down the instructions required to setup, configure and connect your device. Please use external links when possible pointing to your own page with device preparation steps.}}
+-   Configure the VersaView 5400 device as described in https://literature.rockwellautomation.com/idc/groups/literature/documents/um/6200-um001_-en-p.pdf
 
 <a name="Manual"></a>
 # Step 3: Manual Test for Azure IoT Edge on device
